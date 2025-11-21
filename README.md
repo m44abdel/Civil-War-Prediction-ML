@@ -170,10 +170,7 @@ Civil wars are among the most devastating forms of conflict, causing immense hum
 - Python 3.10+
 
 ### Setup
-
-1. **Clone the repository:**
-git clone https://github.com/yourusername/Civil-War-Prediction-ML.git
-cd Civil-War-Prediction-ML2. **Create a virtual environment (recommended):**
+**Create a virtual environment (recommended):**
 python -m venv civilwarvenv
 source civilwarvenv/bin/activate  # On Windows: civilwarvenv\Scripts\activate3. **Install required packages:**
 pip install -r requirements.txt### Required Packages
