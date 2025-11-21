@@ -171,6 +171,6 @@ Civil wars are among the most devastating forms of conflict, causing immense hum
 
 ### Setup
 **Create a virtual environment (recommended):**
-python -m venv civilwarvenv
-source civilwarvenv/bin/activate  # On Windows: civilwarvenv\Scripts\activate3. **Install required packages:**
+python -m venv civilwarvenv  
+source civilwarvenv/bin/activate  # On Windows: civilwarvenv\Scripts\activate3. **Install required packages:**  
 pip install -r requirements.txt### Required Packages
