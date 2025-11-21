@@ -6,7 +6,7 @@ A predictive modeling project that uses machine learning to forecast civil war o
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Key Features](#key-features)
