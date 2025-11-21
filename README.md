@@ -1,5 +1,4 @@
 # Civil-War-Prediction-ML
-# Civil War Prediction Using Machine Learning
 
 A predictive modeling project that uses machine learning to forecast civil war onset based on political regime characteristics and historical conflict data.
 
