@@ -14,3 +14,14 @@ h5netcdf
 h5netcdf
 xlrd
 imblearn
+xgboost
+tensorflow
+keras
+torch
+torchvision
+torchtext
+torchaudio
+torchvision
+torchtext
+torchaudio
+openpyxl
